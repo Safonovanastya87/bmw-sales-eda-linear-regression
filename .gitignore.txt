@@ -2,4 +2,5 @@
 *.xlsx
 *.zip
 .ipynb_checkpoints/
-data/
+data/*
+!data/README.md
